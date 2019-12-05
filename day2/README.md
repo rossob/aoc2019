@@ -1,36 +1,15 @@
-# day2
+# day1
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
+https://adventofcode.com/2019/day/2
 
 ## Usage
 
-FIXME: explanation
+$ lein run
 
-    $ java -jar day2-0.1.0-standalone.jar [args]
+or
 
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+$ java -jar day2-0.1.0-standalone.jar
 
 ## License
 
-Copyright © 2019 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Copyright © 2019
